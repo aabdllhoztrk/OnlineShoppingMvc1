@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Abcd\Abc.Core\bin\Debug\netcoreapp2.1\Abc.Core.deps.json
+C:\Users\user\source\repos\Abcd\Abc.Core\bin\Debug\netcoreapp2.1\Abc.Core.dll
+C:\Users\user\source\repos\Abcd\Abc.Core\obj\Debug\netcoreapp2.1\Abc.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Abcd\Abc.Core\obj\Debug\netcoreapp2.1\Abc.Core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Abcd\Abc.Core\obj\Debug\netcoreapp2.1\Abc.Core.AssemblyInfo.cs
+C:\Users\user\source\repos\Abcd\Abc.Core\bin\Debug\netcoreapp2.1\Abc.Core.pdb
+C:\Users\user\source\repos\Abcd\Abc.Core\obj\Debug\netcoreapp2.1\Abc.Core.dll
+C:\Users\user\source\repos\Abcd\Abc.Core\obj\Debug\netcoreapp2.1\Abc.Core.pdb
+C:\Users\user\source\repos\Abcd\Abc.Core\obj\Debug\netcoreapp2.1\Abc.Core.csprojAssemblyReference.cache
